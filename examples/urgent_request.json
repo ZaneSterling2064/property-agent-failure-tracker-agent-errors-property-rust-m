@@ -1,0 +1,17 @@
+{
+  "maintenance": {
+    "request_id": "mx-1042",
+    "property_id": "elm-17",
+    "summary": "Water entering electrical closet",
+    "urgency": "urgent"
+  },
+  "tenant_document": {
+    "tenant_id": "tenant-88",
+    "state": "missing"
+  },
+  "inspection": {
+    "inspection_id": "inspection-31",
+    "due_in_days": 2
+  }
+}
+
